@@ -1,5 +1,6 @@
 ## test_config.yaml for Integration Testing
 ## Resources you want to watch
+## This is a test comment
 resources:
   - name: v1/pods             # Name of the resource. Resource name must be in group/version/resource (G/V/R) format
                               # resource name should be plural (e.g apps/v1/deployments, v1/pods)
